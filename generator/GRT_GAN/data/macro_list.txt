@@ -1,0 +1,46 @@
+exp.real.short.rate.5
+exp.inflation.5
+real.term.prem.5
+inflation.risk.prem.5
+tips.liq.prem.5
+nominal.yield.raw.5
+nominal.yield.fitted.5
+ic.raw.5
+ic.fitted.5
+exp.real.short.rate.10
+exp.inflation.10
+tips.liq.prem.10
+nominal.yield.raw.10
+nominal.yield.fitted.10
+ic.raw.10
+ic.fitted.10
+exp.real.short.rate.5f5
+exp.inflation.5f5
+tips.liq.prem.5f5
+nominal.yield.raw.5f5
+nominal.yield.fitted.5f5
+lmci
+CPIAUCSL
+FEDFUNDS
+GS10
+M1NS
+M2SL
+T10YIEM
+UNRATE
+gz_spread
+ebp
+est_prob
+REALIZED_1M
+REALIZED_3M
+REALIZED_6M
+FCI-G Index (baseline)
+10Yr Treasury
+Mortgage Rate
+BBB
+Stock Market
+House Prices
+Dollar
+A191RL1Q225SBEA
+A191RP1Q027SBEA
+CIE_spf
+CIE_mich

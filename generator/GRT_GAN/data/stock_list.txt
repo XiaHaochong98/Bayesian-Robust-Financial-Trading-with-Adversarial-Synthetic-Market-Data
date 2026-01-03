@@ -1,0 +1,14 @@
+FXY.csv
+DBC.csv
+UNG.csv
+UGA.csv
+SPY.csv
+USO.csv
+QQQ.csv
+CORN.csv
+DBB.csv
+IWM.csv
+GLD.csv
+FXB.csv
+CYB.csv
+FXE.csv

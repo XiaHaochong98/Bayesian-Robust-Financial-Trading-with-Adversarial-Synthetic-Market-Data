@@ -1,0 +1,14 @@
+einops
+timm
+scikit-learn
+gym
+tensorboard
+stable_baselines3
+datasets
+pynvml
+peft
+transformers
+polars-lts-cpu
+sortedcontainers
+toml
+optuna

@@ -1,0 +1,4 @@
+FXA.csv
+FXC.csv
+NIB.csv
+SLV.csv

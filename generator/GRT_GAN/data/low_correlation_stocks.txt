@@ -1,0 +1,8 @@
+real.term.prem.10
+inflation.risk.prem.10
+real.term.prem.5f5
+inflation.risk.prem.5f5
+ic.raw.5f5
+ic.fitted.5f5
+T10Y2YM
+FFR

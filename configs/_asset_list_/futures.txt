@@ -1,0 +1,14 @@
+CL=F
+GC=F
+NG=F
+ZC=F
+ZS=F
+ZN=F
+GE=F
+6E=F
+6J=F
+VIXY
+VIXM
+ES=F
+NQ=F
+YM=F
